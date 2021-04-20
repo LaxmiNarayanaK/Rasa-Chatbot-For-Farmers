@@ -26,3 +26,15 @@ are to be grown based on the state,soil ph value,rainfall,etc. so that a good yi
 
 ### Connect this Repo and Use the Bot
 Follow the steps mentioned in this [file](https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/connect-this-repo.md) to clone this repository and use our **CHATBOT**
+
+### Screenshots of prototype in RASA X server
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/images/rasax1.png">
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/images/rasax2.png">
+
+## Screenshots of prototype in Telegram
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/images/tel-1.png" width="500" height="500">
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/images/tel-2.png" width="500" height="500">
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/images/tel-3.png" width="500" height="500">
+
+### Live Demo
+
