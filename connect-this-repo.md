@@ -1,8 +1,13 @@
 ***Step 1***:Clone our github repository into your desired location using the below link: https://github.com/kuluruvineeth/Agrosahakar 
+
 ***Step 2***: create a VM instance on any cloud platform such as aws, azure, GCP, heroku. 
+
 ***Step 3***: Deploy RASAX server on VM instance created in step1 as mentioned in the phase 2. For detailed information please refer to the official RASA documentation:[RASA documentation](https://cdn2.hubspot.net/hubfs/6711345/ebook-v3.pdf?__hstc=123545108.89abd9a4f81cca58a8242833f77146c9.1618572135666.1618572135666.1618572135666.1&__hssc=123545108.1.1618572135666&__hsfp=1177053440&hsCtaTracking=2cf912f3-4137-4338-829e-08bb4713f0f6%7Cda22eae5-512d-48fe-b46a-c74517f3d870)
+
 ***Step 4***: Now your RASAX server will be up and running.
+
 ***Step 5***: Connect your repository to the RASAX server:
+
 **1.Generate SSH keys:**
 * Navigate back to your terminal. If you’ve closed the connection to your VM instance, log back in.
 * Run the following command to generate a public and private SSH key
