@@ -14,4 +14,13 @@ are to be grown based on the state,soil ph value,rainfall,etc. so that a good yi
 
 ### Tools and Technologies
 
-![]
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/aws.png" width="100" height="100" /> ||
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/jupyter-notebook.png" width="100" height="100" />
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/ngrok.png" width="100" height="100" />
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/rasa.jfif" width="100" height="100" />
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/rasa-x.jfif" width="100" height="100" />
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/scikit-learn.png" width="100" height="100" />
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/telegram.png" width="100" height="100" />
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/visual-studio-code.png" width="100" height="100" />
+
+
