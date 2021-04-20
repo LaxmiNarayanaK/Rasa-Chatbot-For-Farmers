@@ -23,3 +23,6 @@ are to be grown based on the state,soil ph value,rainfall,etc. so that a good yi
 <img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/telegram.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;</br></br>
 <img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/visual-studio-code.png" width="100" height="100" />
 </p>
+
+### Connect this Repo and Use the Bot
+Follow the steps mentioned in this [file](https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/connect-this-repo.md) to clone this repository and use our **CHATBOT**
