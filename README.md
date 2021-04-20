@@ -13,14 +13,13 @@ details(in terms of rates and production)in a specific area in which the farmer 
 are to be grown based on the state,soil ph value,rainfall,etc. so that a good yield could be observed.The project is built in a framework called *RASA* which enables building an interactive chatbot for the project using NLU
 
 ### Tools and Technologies
-
-<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/aws.png" width="100" height="100" />   
-<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/jupyter-notebook.png" width="100" height="100" />
-<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/ngrok.png" width="100" height="100" />
-<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/rasa.jfif" width="100" height="100" />
-<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/rasa-x.jfif" width="100" height="100" />
-<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/scikit-learn.png" width="100" height="100" />
-<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/telegram.png" width="100" height="100" />
+<p float="left">
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/aws.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/jupyter-notebook.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/ngrok.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/rasa.jfif" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/rasa-x.jfif" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/scikit-learn.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/telegram.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/visual-studio-code.png" width="100" height="100" />
-
-
+</p>
