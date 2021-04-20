@@ -43,6 +43,30 @@ Paste the JSON object into the file. Press Control + X to exit the editor, and c
     *  --header 'content-type: application/json' \ --data-binary @repository.json
    * Check the connection by navigating back to the Rasa X dashboard in your browser and checking the Integrated Version Control icon in the bottom left corner. If the connection was successful, you’ll see either a green indicator, meaning Rasa X is up to date with the GitHub repository, or a yellow indicator, meaning Rasa X has changes that need to be pushed to GitHub.
    
-**Step 6: Set up the Actions Server:**
+***Step 6***: Set up the Actions Server:
 * We have one more thing to configure: the assistant’s custom action server. To do this, we’ll place the assistant’s custom action code within an actions directory on the server.
 * Connect to your server and make sure you’re in the /etc/rasa directory. In your terminal, run the following commands to create the actions directory and two files inside it: __init__.py and actions.py:
+* Run nano actions/actions.py to edit the newly-created actions.py file. 
+* Paste the code from your assistant’s actions.py file into the blank file, save, and close the editor. 
+* Then, we need to create a docker-compose.override.yml file. This file instructs docker-compose to spin up a custom action server when the Rasa X server starts up.
+* Let’s create that file:
+    **touch docker-compose.override.yml**
+
+
+    Open the file editor:**nano docker-compose.override.yml**
+
+    And add the following contents:
+
+
+     **version: '3.4'**
+     **services:**
+     **app:** 
+     **image: 'rasa/rasa-sdk:latest'**
+     **volumes: - './actions:/app/actions' expose: - '5055'**
+     **depends_on: - rasa-production**
+* Here, we’re using the rasa-sdk image to run our custom actions, and we’re specifying that the actions server will listen on port 5055. The actions server depends on the rasa-production service, which is responsible for running the trained model, parsing intent messages, and predicting actions.
+* Once you’ve saved the file, you can restart the Rasa X docker container and the assistant will be fully functional on Rasa X.
+   **sudo docker-compose up -d**
+***Step 7***: Eureka!!! You have done the complete set up and are ready to use our chatbot. Feel free to share your comments in github.
+
+
