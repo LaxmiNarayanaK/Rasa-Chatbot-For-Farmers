@@ -32,9 +32,27 @@ Follow the steps mentioned in this [file](https://github.com/LaxmiNarayanaK/Rasa
 <img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/images/rasax2.png">
 
 ## Screenshots of prototype in Telegram
-<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/images/tel-1.png" width="500" height="500">
-<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/images/tel-2.png" width="500" height="500">
-<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/images/tel-3.png" width="500" height="500">
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/images/tel-1.png" width="400" height="400">
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/images/tel-2.png" width="400" height="400">
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/images/tel-3.png" width="400" height="400">
 
 ### Live Demo
+**Crop Price Path Demo**
 
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/story-gifs/crop_price.gif" width="500" height="500">
+
+**Fertilizers Information Path Demo**
+
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/story-gifs/ferti_info.gif" width="500" height="500">
+
+**Fertilizers Recommendation Path Demo**
+
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/story-gifs/ferti_recommend.gif" width="500" height="500">
+
+**Crop Recommendation Path Demo**
+
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/story-gifs/crop_recommend.gif" width="500" height="500">
+
+## THANK YOU
+
+***Please feel free to post your comments and contribute to this project***
