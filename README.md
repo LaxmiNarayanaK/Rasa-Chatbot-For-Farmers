@@ -20,6 +20,6 @@ are to be grown based on the state,soil ph value,rainfall,etc. so that a good yi
 <img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/rasa.jfif" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/rasa-x.jfif" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/scikit-learn.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/telegram.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/telegram.png" width="100" height="100" />&nbsp;&nbsp;&nbsp;</br></br>
 <img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Tools-images/visual-studio-code.png" width="100" height="100" />
 </p>
