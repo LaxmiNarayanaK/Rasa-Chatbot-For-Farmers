@@ -53,6 +53,8 @@ Follow the steps mentioned in this [file](https://github.com/LaxmiNarayanaK/Rasa
 
 <img src="https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/story-gifs/crop_recommend.gif" width="500" height="500">
 
+TO GET A BETTER INSIGHT OF OUR PROJECT PLEASE REFER TO THIS [REPORT LINK](https://github.com/LaxmiNarayanaK/Rasa-Chatbot-For-Farmers/blob/main/Report%20of%20Ai%20Chatbot%20for%20Agriculture.pdf)
+
 ## THANK YOU
 
 ***Please feel free to post your comments and contribute to this project***
